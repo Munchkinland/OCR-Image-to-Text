@@ -1,0 +1,1 @@
+Portal del Gestor de Ayudas: para que los gestores de cada ayuda puedan subir gestionar   la documentación base correspondiente que alimentará asistente Y puedan dar seguimiento de uso del servicio Y estadísticas específicas de la ayuda bajo su responsabilidad. ayuda

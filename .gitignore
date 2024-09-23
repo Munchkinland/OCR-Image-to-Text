@@ -1,1 +1,6 @@
 *.venv
+*.gif
+*.bmp
+*.jpeg
+*.png
+*.txt
